@@ -1,10 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-:root {
-  --color-primary: #14213D;
-  --color-accent: #FCA311;
-}
-
-body { @apply bg-white text-gray-900; }
